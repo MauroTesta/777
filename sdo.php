@@ -28,7 +28,7 @@
 			</div>
 			<div class="row">
 				<div class="col-md-4 mb-3">
-					<label for="validationDefault01">DATA DI NASCITA</label>
+					<label for="validationDefault01">DATA DI RICOVERO</label>
 					<input class="form-control" id="validationDefault01"id="date" type="date">
 				</div>
 				<div class="col-md-4 mb-3">
@@ -55,6 +55,19 @@
 				</div>
 			</div>
 			
+		</div>
+<div class="col-md-6 mb-3">
+				<label for="validationCustom05">Reparto</label>
+				<select class="form-control" id="exampleFormControlSelect2">
+					<option>NEUROLOGIA</option>
+					<option>CHIRURGIA GENERALE</option>
+					<option>NEUROPSICHIATRIA INFANTILE</option>
+					<option>ONCOLOGIA</option>
+		            <option>PEDIATRIA</option>
+                    <option>GINECOLOGIA</option>
+                    <option>GASTROENTEROLOGIA</option>
+                    <option>EMATOLOGIA</option>
+        </select>
 		</div>
 
 		

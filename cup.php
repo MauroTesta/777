@@ -52,13 +52,13 @@
 				<div class="form-group">
 					<label for="exampleFormControlSelect2">Seleziona il tipo di esame</label>
 					<select  class="form-control" id="exampleFormControlSelect2">
-						<option>Visita Cardiologica</option>
-						<option>Endoscopia</option>
-						<option>Eco color doppler</option>
+						<option>Ecografia</option>
+						<option>Medicina Nucleare</option>
+						<option>Mammografia</option>
 						<option>Radiografia</option>
 						<option>Risonanza Magnetica</option>
 						<option>Tomografia Computerizzata</option>
-						<option>Visita Neurologica</option>
+					
 					</select>
 				</div>
 			</div>
@@ -74,21 +74,21 @@
 				<div class="form-group">
 					<label for="exampleFormControlSelect2">STRUTTURA OSPEDALIERA</label>
 					<select  class="form-control" id="exampleFormControlSelect2">
-						<option>OSPEDALE BUSINCO</option>
-						<option>OSPEDALE MARINO</option>
+						<option>OSPEDALE POLICLINICO UNIVERSITARIO</option>
+						<option>OSPEDALE BINAGHI</option>
 						<option>OSPEDALE CIVILE</option>
-						<option>POLICLINICO UNIVERSITARIO</option>
+						<option>OSPEDALE BUSINCO</option>
 						<option>OSPEDALE MICROCITEMICO</option>
 						<option>OSPEDALE BROTZU</option>
 						<option>OSPEDALE SS TRINITA</option>
-						<option>OSPEDALE BINAGHI</option>
+						<option>OSPEDALE MARINO</option>
 					</select>
 				</div>
 			</div>
 
 		</div>
 
-		<button class="btn btn-primary" type="submit">Submit form</button>
+		<button class="btn btn-primary" type="submit">Conferma</button>
 	</form>
 
 
