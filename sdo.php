@@ -78,8 +78,9 @@
 					<label for="exampleFormControlSelect2">MOTIVO DIMISSIONE</label>
 					<select  class="form-control" id="exampleFormControlSelect2">
 						<option>Dimesso a domicilio</option>
-						<option>Trasferito ad altro ospedale</option>
+						<option>Trasferimento in un altro ospedale</option>
 						<option>Dimesso contro il parere dei sanitari</option>
+						<option>Dimesso per indisponibilità letti</option>
 						<option>Deceduto</option>
 					</select>
 				</div>      <div class="invalid-feedback">
