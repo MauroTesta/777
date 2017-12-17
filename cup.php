@@ -52,12 +52,13 @@
 				<div class="form-group">
 					<label for="exampleFormControlSelect2">Seleziona il tipo di esame</label>
 					<select  class="form-control" id="exampleFormControlSelect2">
-						<option>Ecografia</option>
-						<option>Medicina Nucleare</option>
-						<option>Mammografia</option>
-						<option>Radiografia</option>
-						<option>Risonanza Magnetica</option>
-						<option>Tomografia Computerizzata</option>
+						<option>Visita Cardiologica</option>
+						<option>Visita Neurologica</option>
+						<option>Visita Ginecologica</option>
+						<option>Visita Ortopedica</option>
+						<option>Visita Urologica</option>
+						<option>Visita Odontoiatrica</option>
+							
 					
 					</select>
 				</div>
